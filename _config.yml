@@ -36,7 +36,7 @@ paginate_path: '/page:num/'
 
 permalink: /:year/:month/:day/:title
 
-remote-theme: 
+remote-theme: "ghosind/Jekyll-Paper-Github"
 
 sass:
   sass_dir: _sass
