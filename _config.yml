@@ -6,7 +6,7 @@ title: Blog
 email: Coding@example.com
 name: Coding
 description: >- # this means to ignore newlines until "baseurl:"
-  很惭愧，只做了一点微小的工作。
+  很惭愧，就做了一点微小的工作。
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
